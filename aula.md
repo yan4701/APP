@@ -37,6 +37,7 @@ Operadores de comparação: ==, !=, <=, >=, <, >
 
 ### Arrays:
 Uma lista que contém qualquer tipo de dados
+Métodos de Array: push, find, forEach 
 
 ### objetos: 
 Atributos e métodos
