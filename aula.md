@@ -60,6 +60,12 @@ if/else
 ## Módulos em Node.js:
 Importação de módulos (require, CommonJS)
 Biblioteca 'inquire' para criar prompts interativos
+FS (file system)
+
+## Json
+Javascript Object Notation (.json)
+JSON.parse(): transforma de JSON para JS
+JSON.stringify: transforma de JS para JSON
 
 ## Programação assíncrona e Promises:
 Uso de funções assíncronas (async/await)

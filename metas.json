@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Tomar 3L de água por dia",
+    "checked": false
+  },
+  {
+    "value": "Andar durante 20 minutos por dia",
+    "checked": false
+  },
+  {
+    "value": "Meditar durante  5 minutos por dia",
+    "checked": false
+  },
+  {
+    "value": "Ler durante 15 minutos por dia",
+    "checked": false
+  }
+]
