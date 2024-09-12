@@ -38,7 +38,7 @@ Spread Operator: ...
 
 ### Arrays:
 Uma lista que contém qualquer tipo de dados
-Métodos de Array: [push, find, forEach]: HOF (Higher Order Functions)
+Métodos de Array: [push, find, forEach, map]: HOF (Higher Order Functions)
 
 ### objetos: 
 Atributos e métodos
